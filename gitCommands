@@ -1,0 +1,188 @@
+    1  brew install git
+   12  git init
+   30  git status
+   38  git status
+   39  git add .
+   40  git commit -m "[Avani|Pranali] Hook exercise"
+   42  .git
+   53  git status
+   55  git add .
+   56  git commit -m "[Avani|Pranali] Add. readme file"
+   67  git add .
+   68  git commit -m "git hook exercise"
+   70  .git
+   78  git status
+   79  .git
+   85  git status
+   87  git add .
+   88  git commit -m "Add. new readme file"
+   89  .git
+  101  .git
+  105  git add .
+  106  git coomit -m "[pranali] Add. new commit"
+  107  git commit -m "[pranali] Add. new commit"
+  112  git clone
+  114  git clone
+  116  git clone git@github.com:tw-bl-bootcamp/animal-farm-pranalinamdas.git
+  119  git clone git@github.com:tw-bl-bootcamp/mars-rover-pranalinamdas.git
+  151  git clone git@github.com:pranalinamdas/FundooBackend.git
+  171  git clone git@github.com:tw-bl-bootcamp/iflix-pranalinamdas.git
+  172  git add .
+  173  git commit -m "[Pranali] Update. Tech Stack in README.md file"
+  174  git push origin master
+  203  git add .
+  204  git commit -m "[Pranali] Add. package.json for all dependancies"
+  205  git push origin master
+  206  git add .
+  207  git commit -m "[Pranali] Add. server to listen port number"
+  208  git push origin master
+  209  git add .
+  210  git commit -m "[Pranali] Add. server to listen port number"
+  211  git push origin master
+  212  git add .
+  213  git commit -m "[Pranali] Add. express in server"
+  214  git push origin master
+  215  git add .
+  216  git commit -m "[Pranali] Add. server to listen port number"
+  217  git push origin master
+  219  git add .
+  220  git commit -m "[Pranali] Add. mongoose to server for mongodb database connection"
+  221  git push origin master
+  222  git add .
+  223  git commit -m "[Pranali] Add. router to server"
+  224  git push origin master
+  234  git add .
+  235  git commit -m "[Pranali] Fix. server starts with express"
+  236  git push origin master
+  238  git add .
+  239  git commit -m "]Pranali] Add. app into server"
+  240  git push origin master
+  242  git add .
+  243  git commit -m "[Pranali] Add. get for listening requests"
+  244  git push origin master
+  246  git add .
+  247  git commit -m "[Pranali] Add. mongoose configuration for database connection"
+  248  git push origin master
+  270  git add .
+  271  git commit -m "[Pranali] Add. login for empty input should fail"
+  272  git push origin master
+  279  git add .
+  280  git commit -m "[Pranali] Fix. node_modules in .gitignore"
+  281  git push origin master
+  286  git add .
+  297  git add .
+  298  git commit -m "[Pranali] Add. Login api in backend"
+  299  git push origin master
+  300  git add .
+  301  git commit -m "[Pranali] Refactor. request and response in login controller"
+  302  git push origin master
+  306  git add .
+  307  git commit -m "[Pranali] Add. show movie list to user"
+  308  git push origin master
+  318  git add .
+  319  git commit -m "[Pranali] Add. login page in frontend"
+  320  git push origin master
+  354  git add .
+  355  git commit -m "[Pranali] Add. Connectivity between backend and frondend for login api"
+  356  git push origin master
+  367  git add .
+  368  git commit -m "[Pranali] Add. show  movie list in frontend"
+  369  git push origin master
+  384  git add .
+  385  git commit -m "[Pranali] Add. Frontend and backend"
+  386  git push origin master
+  387  git add .
+  388  git commit -m "[Pranali] update. README file"
+  435  git init
+  436  git add hello.js
+  437  git statua
+  438  git status
+  439  git commit -m "[Pranali|Chakravarthi] Add. Hello World"
+  440  git push origin master
+  441  git remote add origin git@github.com:pranalinamdas/gitPratice.git
+  442  git push origin master
+  443  git pull
+  444  git status
+  445  git pull origin master
+  446  git status
+  447  git add .
+  448  git commit -m "[chakri|pranali] update. changing the hello message to hello chakri"
+  449  git def
+  450  git diff
+  451  git status
+  452  git push
+  453  git pull 
+  454  git pull origin master
+  455  git add .
+  456  git add.
+  457  git add .
+  458  git commit -m "[chakri|pranali] Fix.Resolved the Conflict"
+  459  git status
+  460  git pull origin master
+  461  git push
+  462  git push origin master
+  463  git branch messsage
+  464  git checkout
+  465  git status
+  466  git checkout message
+  467  git checkout master
+  468  git checkout message
+  469  git status
+  470  git checkout messsage 
+  471  git checkout master
+  472  git status
+  473  git pull origin master
+  474  git diff
+  475  git add.
+  476  git add .
+  477  git commit -m "[chakri|pranali] Fix.Resolved the Conflict"
+  478  git push origin master
+  479  git diff messsage 
+  480  git checkout messsage 
+  481  git add .
+  482  git commit -m "[chakri|pranali] changes adding"
+  483  git checkout messsage 
+  484  git add .
+  485  git commit -m "[chaku"
+  486  git push origin messsage 
+  487  git pull origin messsage 
+  488  git add .
+  489  git commit -m "[chaku"
+  490  git push origin messsage 
+  491  git pull origin message
+  492  git pull origin messsage 
+  493  git diff
+  494  git checkout master 
+  495  git merge messsage 
+  496  git push origin master
+  497  git checkout messsage 
+  498  git add .
+  499  git commit -m "echanging in branch"
+  500  git push origin messsage 
+  501  git checkout master 
+  502  git merge messsage 
+  503  git merge origin messsage 
+  504  git merge messsage 
+  505  git status
+  506  git add .
+  507  git commit -m "local master changes"
+  508  git branch
+  509  git checkout messsage 
+  510  git merge master 
+  511  git push origin messsage 
+  512  git checkout master  
+  513  git merge messsage 
+  514  git push origin master
+  516  git checkout messsage 
+  517  git ad  .
+  518  git add  .
+  519  git commit -m "feature finished"
+  520  git merge master
+  521  git checkout master
+  522  git commit -m "feature finished"
+  523  git add .
+  524  git commit -m "feature finished"
+  525  git checkout master
+  526  git merge messsage 
+  527  git push origin master
+  530  history | grep git
